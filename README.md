@@ -9,4 +9,4 @@ I used the approach from the Udemy course [Advanced Computer Vision](https://www
 ## Results
 It achieves 100% over the test set in only one training epoch. 
 
-[Example](Example.png)
+![Example](Example.png)
