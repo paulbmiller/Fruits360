@@ -4,3 +4,4 @@ archive.zip
 imagenet1000_labels.txt
 main.py
 ResNet.py
+.idea/
